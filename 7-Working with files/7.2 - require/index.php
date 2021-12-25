@@ -2,7 +2,7 @@
 <head></head>
 <body>
 
-        <?php include 'includes/menu.php';?>
+        <?php require 'menu.php';?>
     </div>
 
 </body>
